@@ -1,0 +1,18 @@
+{
+    "Name": "SBBModel",
+    "Description": "This is for SBB inferecening",
+    "Version": 1,
+    "InputDimensions": [
+        1,
+        56,
+        56,
+        1
+    ],
+    "ImageType": 0,
+    "ImageFormat": 0,
+    "Classes": {
+        "0": "bridge",
+        "1": "non-bridge"
+    },
+    "PreprocessingTasksList": []
+}

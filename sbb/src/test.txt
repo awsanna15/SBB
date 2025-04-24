@@ -1,0 +1,6 @@
+ID0	IsBridge=[0. 1.]	predictionIsBridge1.0000000	predictionIsNotBridge= 0.0000000
+ID1	IsBridge=[0. 1.]	predictionIsBridge0.9999589	predictionIsNotBridge= 0.0000411
+ID2	IsBridge=[1. 0.]	predictionIsBridge0.0000000	predictionIsNotBridge= 1.0000000
+ID3	IsBridge=[0. 1.]	predictionIsBridge1.0000000	predictionIsNotBridge= 0.0000000
+ID4	IsBridge=[1. 0.]	predictionIsBridge0.0000000	predictionIsNotBridge= 1.0000000
+ID5	IsBridge=[1. 0.]	predictionIsBridge0.0000000	predictionIsNotBridge= 1.0000000
